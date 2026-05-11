@@ -1,4 +1,4 @@
-# EventSphere – Event Management Portal (Front‑End Demo)
+# EventSphere – Event Management Portal (Basic Demo)
 
 This is a **single‑page event management UI** implemented with:
 
