@@ -18,10 +18,9 @@ If you have Node.js and npm installed and prefer a local server:
 
 ```bash
 cd "c:\mini project"
-npx serve .
 ```
 
-Then visit `http://localhost:3000` (or the port shown) in your browser.
+Then visit `http://127.0.0.1:5173` (or the port shown) in your browser after running py server.py.
 
 ## Features mapped to your requirements
 
@@ -54,6 +53,7 @@ Then visit `http://localhost:3000` (or the port shown) in your browser.
 
 ## Notes
 
-- This is a **front‑end only** demo: authentication, emails, and reminders are simulated.
+- This is a  demo: authentication, emails, and reminders are simulated.
 - You can turn a user into an “admin” by checking **Login as admin** on the login form.
+- admin has only one login Admin login: admin@eventsphere.local / password: admin123
 
