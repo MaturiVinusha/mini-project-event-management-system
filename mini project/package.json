@@ -1,0 +1,15 @@
+{
+  "name": "event-sphere-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pure HTML/CSS/JS + React (via CDN) event management portal demo.",
+  "scripts": {
+    "start": "npx serve .",
+    "preview": "npx serve ."
+  },
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0"
+  }
+}
+
